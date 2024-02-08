@@ -5,7 +5,7 @@ class Login extends My_Controller{
     var $folder_location = array(
         '0' => array(
             'title' => 'Login',
-            'view' => 'layouts/admin/login/login',  
+            'view' => 'layouts/admin/login/login_v1',  
         ),
         '1' => array(
             'title' => 'Daftar',
